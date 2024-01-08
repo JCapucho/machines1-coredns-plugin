@@ -1,6 +1,6 @@
 module github.com/JCapucho/machines1-coredns-plugin
 
-go 1.21.5
+go 1.21.0
 
 require (
 	github.com/coredns/caddy v1.1.1
